@@ -1,5 +1,3 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
 
@@ -16,8 +14,5 @@ public class Main {
         System.out.println((chicken / eaters) + " куриных(ое) бёдер(ро)");
         System.out.println((spices / eaters) + " ложек(ки/ка) специй");
 
-    }
-}
-        }
     }
 }
